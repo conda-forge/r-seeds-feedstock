@@ -1,11 +1,11 @@
-About r-seeds
-=============
+About r-seeds-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-seeds-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Newmi1988/seeds
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-seeds-feedstock/blob/main/LICENSE.txt)
 
 Summary: Algorithms to calculate the hidden inputs of systems of differential equations. These hidden inputs can be interpreted as a control that tries to minimize the discrepancies between a given model and taken measurements. The idea is also called the Dynamic Elastic Net, as proposed in the paper "Learning (from) the errors of a systems biology model" (Engelhardt, Froelich, Kschischo 2016) <doi:10.1038/srep20772>. To use the experimental SBML import function, the 'rsbml' package is required. For installation I refer to the official 'rsbml' page: <https://bioconductor.org/packages/release/bioc/html/rsbml.html>.
 
